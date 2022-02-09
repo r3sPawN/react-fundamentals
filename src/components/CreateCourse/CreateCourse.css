@@ -1,0 +1,39 @@
+.create-courses-ctr {
+  padding: 10px;
+}
+
+.title-ctr {
+  display: flex;
+  justify-content: space-between;
+}
+
+.information-ctr {
+  border: 1px solid black;
+  display: flex;
+  margin: 5px;
+  min-height: 300px;
+}
+
+.description {
+  width: 99%;
+}
+
+.create-author {
+  flex: 3;
+  display: flex; 
+  flex-direction: column;
+  margin: 10px;
+  justify-content: space-between;
+}
+
+.delete-author {
+  flex: 1;
+  font-weight: 100;
+  margin:10px 0;
+}
+
+.test{ 
+  width: 76%;
+  display: flex;
+  justify-content: space-between;
+}

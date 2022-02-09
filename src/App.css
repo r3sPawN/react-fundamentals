@@ -1,0 +1,12 @@
+.app-ctr{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.courses-ctr{ 
+    margin-top: 20px;
+    width: 80%;
+    border: 1px solid blue;
+    min-height: 300px;
+}

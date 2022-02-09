@@ -1,0 +1,19 @@
+.header{ 
+    display: flex;
+    justify-content: space-between;
+    align-items: center ;
+    width: 80%;
+    border: 1px solid blue;
+}
+
+.logo{ 
+   height: 30;
+   margin-left: 10px;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    padding: 10px;
+}
+

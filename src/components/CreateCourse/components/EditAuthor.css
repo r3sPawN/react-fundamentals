@@ -1,0 +1,7 @@
+.authors{
+    font-weight: 100;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-right: 50px;
+}
